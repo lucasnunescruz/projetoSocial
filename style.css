@@ -1,0 +1,5 @@
+* {
+    box-sizing: border-box; /*calcula o tamanho do elemento de acordo com o conteúdo até a borda ou seja: conteudo+padding+borda*/
+    margin: 0;
+    padding: 0;
+}
